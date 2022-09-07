@@ -59,27 +59,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ Screen reader werkte in principe wel goed. Vaak genoeg kon je de links en headers vinden, en ook het lezen van overige tekst was goed te doen. Foto's en video's hebben ook veel alt tekst waar het tot in detail bespreekt wat er gebeurd in de media.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Ging allemaal wel prima, de flow van de website is duidelijk en goed te gebruiken. Hier werken de muis en het toetsenbord dus ook goed bij.
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Spasmes zijn sowieso lastig, vooral het gebruik van knoppen. Toch ga ik deze niet ‘nog groter’ maken dan dat ze al zijn, aangezien het ook vaak gebeurde dat je ergens perongeluk op drukte.
+
+  Wel wil ik dus wat meer ruimte tussen meerdere knoppen of andere elementen.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Terwijl Stephan slechtziend was had hij moeite met hoe licht de website was. Het contrast was nogal groot, dus behoefte aan een dark mode of iets dergelijks is wellicht iets om naar te kijken.
+
+Verder: Knoppen zijn duidelijk, gebruik van donkere kleuren in menu’s zijn fijn, etc.
+
 
 </details>
 
