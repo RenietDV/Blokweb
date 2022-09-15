@@ -18,12 +18,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Auteur:
   Reniet de Vries
   #### Je startniveau:
-  Blauw (als dat in ieder geval het laagste is :') )
+  Blauw (het liefst streef ik naar Rood toe!)
 
   #### Je focus:
   Ik kies graag voor het Surface plane. Ik heb een achtergrond in illustratie/vormgeving en het lijkt mij erg interessant om een wel bekende pagina uit te werken met allerlei visuals en animaties.
-  Responsiveness vind ik lastig, maar ik ga proberen om dit op te pakken en na dit vak te beheersen.
- 
+
 </details>
 
 
@@ -90,13 +89,12 @@ Verder: Knoppen zijn duidelijk, gebruik van donkere kleuren in menu’s zijn fij
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="/readme-images/pokemon-roster.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+   ### de hele pagina: 
+  <img src="/readme-images/home.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+Ik heb 1 dynamisch deel, in dit geval het hamburger menu. Deze wil ik graag een breakdown geven na de JS les.
 
 </details>
 
@@ -108,6 +106,8 @@ Verder: Knoppen zijn duidelijk, gebruik van donkere kleuren in menu’s zijn fij
 
 <details>
   <summary>uitwerken voor 1e voortgang</summary>
+
+  Ik heb tot nu toe vooral nog vragen over het schrijven van correcte semantiek, en ook vragen over positionering. Wanneer is het namelijk verstandig om flexbox te gebruiken? Of kan ik daar beter voor position voor gebruiken? Hier twijfel ik af en toe nog over.
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
