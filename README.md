@@ -93,7 +93,11 @@ Verder: Knoppen zijn duidelijk, gebruik van donkere kleuren in menu’s zijn fij
    ### de hele pagina: 
   <img src="/readme-images/home.png" width="375px" alt="breakdown van de hele pagina">
 
-Ik heb 1 dynamisch deel, in dit geval het hamburger menu. Deze wil ik graag een breakdown geven na de JS les.
+   ### Hamburger:
+    <img src="/readme-images/hamburger.png" width="375px" alt="breakdown van het hamburger menu">
+  
+  ### Gallery:
+    <img src="/readme-images/gallery.png" width="375px" alt="breakdown van de gallery">
 
 </details>
 
@@ -228,14 +232,28 @@ Ymaro en ik gingen aan de slag met JS, al vond ik het lastig bij te houden. Bepa
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  
+ Tijdens het coderen heb ik veel geleerd, en ook zelfs plezier gehad met het coden. Het feit dat ik iets ''na maakte'' gaf mij een betere richting om in te werken, en ook meer ruimte om zelf creatief te worden over hoe ik de site zou aanpassen.
+  
+  De volgende onderdelen gingen goed:
+  - Het schrijven van semantische correcte code
+  - Aandacht besteden aan accessibility
+  - Gebruik maken van de 'nieuwe' CSS selectors
+  - CSS Animatie
+  - Experimenteren
+  - Hulp vragen
+  - Commenten
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
+ Het lastigste vind ik toch JS. Ik vind JS wel leuk, (vooral als het werkt) maar ik vind het erg lastig om functies te schrijven en te denken aan de correcte syntax. Uiteindelijk is alles wel gelukt!
+  
+  De volgende onderdelen konden beter:
+  - Het schrijven van JS
+  - CSS kon vanaf het begin al netter.
+  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
