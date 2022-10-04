@@ -255,9 +255,6 @@ Het leukste aan mijn site vind ik de animaties, dus hier geen plaatje! ;)
   - Het schrijven van JS
   - CSS kon vanaf het begin al netter.
 
-<img src="/readme-images/js.png" width="375px" alt="javascript vind ik wat minder">
-
-
 </details>
 
 
