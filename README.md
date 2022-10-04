@@ -94,10 +94,10 @@ Verder: Knoppen zijn duidelijk, gebruik van donkere kleuren in menu’s zijn fij
   <img src="/readme-images/home.png" width="375px" alt="breakdown van de hele pagina">
 
    ### Hamburger:
-    <img src="/readme-images/hamburger.png" width="375px" alt="breakdown van het hamburger menu">
-  
+  <img src="/readme-images/hamburger.png" width="375px" alt="breakdown van het hamburger menu">
+
   ### Gallery:
-    <img src="/readme-images/gallery.png" width="375px" alt="breakdown van de gallery">
+ <img src="/readme-images/gallery.png" width="375px" alt="breakdown van de gallery">
 
 </details>
 
@@ -228,7 +228,9 @@ Ymaro en ik gingen aan de slag met JS, al vond ik het lastig bij te houden. Bepa
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+ <img src="/readme-images/mysite1.png" width="375px" alt="uitkomsten opdracht">
+  <img src="/readme-images/mysite2.png" width="375px" alt="uitkomsten opdracht">
+
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -244,8 +246,7 @@ Ymaro en ik gingen aan de slag met JS, al vond ik het lastig bij te houden. Bepa
   - Hulp vragen
   - Commenten
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+Het leukste aan mijn site vind ik de animaties, dus hier geen plaatje! ;)
 
   ### Dit was lastig/Is niet gelukt:
  Het lastigste vind ik toch JS. Ik vind JS wel leuk, (vooral als het werkt) maar ik vind het erg lastig om functies te schrijven en te denken aan de correcte syntax. Uiteindelijk is alles wel gelukt!
@@ -253,8 +254,10 @@ Ymaro en ik gingen aan de slag met JS, al vond ik het lastig bij te houden. Bepa
   De volgende onderdelen konden beter:
   - Het schrijven van JS
   - CSS kon vanaf het begin al netter.
-  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+
+<img src="/readme-images/js.png" width="375px" alt="javascript vind ik wat minder">
+
+
 </details>
 
 
@@ -266,19 +269,20 @@ Ymaro en ik gingen aan de slag met JS, al vond ik het lastig bij te houden. Bepa
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-* Code * :
+* Code:
 
-CSS selectors https://www.w3schools.com/cssref/css_selectors.asp
-IntersectionObserver https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver/observe
+CSS selectors - https://www.w3schools.com/cssref/css_selectors.asp
+IntersectionObserver - https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver/observe
+Custom borders rond button - https://www.youtube.com/watch?v=k-kyiUuRxkQ&ab_channel=LeanneR
 
 Ook veel toegepast van de slides op DLO en de bijbehorende Codepen opdrachten.
 
 
-* Visuals * :
+* Visuals:
 
 Alle visuals zijn gevonden op de website zelf. - https://scarletviolet.pokemon.com/en-us/pokemon/
 
-* Audio * :
+* Audio:
 
 Sprigatito audio - https://www.youtube.com/watch?v=CXEsmh_GawU&ab_channel=RandomInkNStuff
 Fuecoco audio - https://www.youtube.com/watch?v=4zvwDJ4f6cE&ab_channel=SailorNeptune
